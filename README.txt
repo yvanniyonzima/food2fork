@@ -1,11 +1,6 @@
-Nom in
-NAME: Yvan Niyonzima
-STUDENT NUMBER: 101052183
-E-MAIL: yvanniyonzimanshuti@cmail.carleton.ca
 
-NAME: Shubham Sharan
-STUDENT NUMBER: 101084842
-E-MAIL: shubhamsharan@cmail.carleton.ca
+NAMES OF DEVELOPERS: Yvan Niyonzima and Shubham Sharan
+
 
 NODE VERSION: v8.11.4
 
